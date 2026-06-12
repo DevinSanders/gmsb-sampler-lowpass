@@ -1,0 +1,10 @@
+{
+  "publisher": "github.DevinSanders",
+  "id": "sampler.lowpass",
+  "name": "Low-Pass Filter",
+  "version": "1.0.0",
+  "author": "Devin Sanders",
+  "description": "Low-pass filter — mutes high frequencies for 'through walls' or muffled distant sounds. Single cutoff knob (100 Hz – 20 kHz, logarithmic).",
+  "entryDll": "LowPassPlugin.dll",
+  "isTheme": false
+}
